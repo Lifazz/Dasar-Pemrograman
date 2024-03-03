@@ -21,6 +21,6 @@ if umur >= 25:
 elif NilaiRataRata >=80 and JenisKelamin == "L":
     print(" Anda Disarankan Untuk Masuk Jurusan Teknik Informatika ")
 elif NilaiRataRata >=80 and JenisKelamin == "P":
-    print( " Anda Disarankan Untuk Masuk Jurusan Sistem Informasi ")
+    print(" Anda Disarankan Untuk Masuk Jurusan Sistem Informasi ")
 else:
-    print( " Selebihnya Anda Disarankan Untuk Masuk Jurusan DKV ")
+    print(" Selebihnya Anda Disarankan Untuk Masuk Jurusan DKV ")
