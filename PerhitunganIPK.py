@@ -6,31 +6,31 @@ ProfesiDatabase = float(input(" Masukan Nilai Database Anda : "))
 Inggris = float(input(" Masukan Nilai Inggris Anda : "))
 
 def skortobobot (skor):
-    if skor >= 90:
+    if skor >= 100:
         return 4
-    elif skor >= 85:
+    elif skor >= 89:
         return 3.75
-    elif skor >= 80:
+    elif skor >= 84:
         return 3.50
-    elif skor >= 75:
+    elif skor >= 79:
         return 3.25
-    elif skor >= 70:
+    elif skor >= 74:
         return 3
-    elif skor >= 65:
+    elif skor >= 69:
         return 2.75
-    elif skor >= 60:
+    elif skor >= 64:
         return 2.5
-    elif skor >= 55:
+    elif skor >= 59:
         return 2.25
-    elif skor >= 50:
+    elif skor >= 54:
         return 2
-    elif skor >= 45:
+    elif skor >= 49:
         return 1.75
-    elif skor >= 40:
+    elif skor >= 44:
         return 1.5
-    elif skor >= 35:
+    elif skor >= 39:
         return 1.25
-    elif skor >= 30:
+    elif skor >= 34:
         return 1
     else:
         return 0
