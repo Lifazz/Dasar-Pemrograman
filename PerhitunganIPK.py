@@ -19,7 +19,7 @@ def skortobobot (skor):
     elif skor >= 65:
         return 2.75
     elif skor >= 60:
-        return 2.560
+        return 2.5
     elif skor >= 55:
         return 2.25
     elif skor >= 50:
